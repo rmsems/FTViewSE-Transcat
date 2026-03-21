@@ -1,0 +1,16 @@
+# FTView / Rockwell junk
+cache/
+*.log
+*.tmp
+*.bak
+*.lck
+Thumbs.db
+
+# Database / runtime files (locked)
+*.MDF
+*.LDF
+*.CAC
+
+# Optional extra noise
+*.SEM
+*.idx

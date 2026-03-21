@@ -1,0 +1,1 @@
+{"version":"V15.0","configuration":{"retentionPolicy":{"storageDuration":{"enabled": false,"value": 365,"unit": "Day"}},"databaseLocation": "Local","connection":{"connectionName": "","retentionPolicy":{"storageDuration":{"enabled": false,"value": 365,"unit": "Day"}}}},"groups": [{"id": 0,"name": "Ungrouped tags"}],"tags": []}
